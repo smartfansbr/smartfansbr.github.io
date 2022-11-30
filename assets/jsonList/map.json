@@ -1,0 +1,83 @@
+[
+    {
+        "id": 0,
+        "map": "https://my.matterport.com/show/?m=RxJXB2iFitD&cloudEdit=1&play=1&qs=1&help=0&hl=0&dh=0&gt=0&hr=0&mls=0&fp=0&lang=pt&nozoom=1&search=0&wh=0",
+        "img": "assets/images/places/basquete.png"      
+    },
+    {
+        "id": 1,
+        "map": "https://my.treedis.com/tour/beach-tennis",
+        "img": "assets/images/places/beachtenis.png"      
+    },
+    {
+        "id": 2,
+        "map": "https://my.matterport.com/show/?m=yUHGSPUwM8j&cloudEdit=1&play=1&qs=1&help=0&hl=0&dh=0&gt=0&hr=0&mls=0&fp=0&lang=pt&nozoom=1&search=0&wh=0",
+        "img": "assets/images/places/campo.png"      
+    },
+    {
+        "id": 3,
+        "map": "https://my.matterport.com/show/?m=a3YjtPiWXga&cloudEdit=1&play=1&qs=1&help=0&hl=0&dh=0&gt=0&hr=0&mls=0&fp=0&lang=pt&nozoom=1&search=0&wh=0",
+        "img": "assets/images/places/capela.png"      
+    },
+    {
+        "id": 4,
+        "map": "https://my.matterport.com/show/?m=D6apwKXMxrW&cloudEdit=1&play=1&qs=1&help=0&hl=0&dh=0&gt=0&hr=0&mls=0&fp=0&lang=pt&nozoom=1&search=0&wh=0",
+        "img": "assets/images/places/ctbase.png"      
+    },
+    {
+        "id": 5,
+        "map": "https://my.matterport.com/show/?m=srm4Q2nas2d&play=1&qs=1&help=0&hl=0&dh=0&gt=0&hr=0&mls=0&fp=0&lang=pt&nozoom=1&search=0&wh=0",
+        "img": "assets/images/places/gavea.png"      
+    },
+    {
+        "id": 6,
+        "map": "https://my.matterport.com/show/?m=CmBYe8VR6t4&cloudEdit=1&play=1&qs=1&help=0&hl=0&dh=0&gt=0&hr=0&mls=0&fp=0&lang=pt&nozoom=1&search=0&wh=0",
+        "img": "assets/images/places/ginastica.png"      
+    },
+    {
+        "id": 7,
+        "map": "https://my.matterport.com/show/?m=zJPyaSXtQKg&cloudEdit=1&play=1&qs=1&help=0&hl=0&dh=0&gt=0&hr=0&mls=0&fp=0&lang=pt&nozoom=1&search=0&wh=0",
+        "img": "assets/images/places/judo.png"      
+    },
+    {
+        "id": 8,
+        "map": "https://my.matterport.com/show/?m=KxV1hVcqhRj&cloudEdit=1&play=1&qs=1&help=0&hl=0&dh=0&gt=0&hr=0&mls=0&fp=0&lang=pt&nozoom=1&search=0&wh=0",
+        "img": "assets/images/places/maracana.png"      
+    },
+    {
+        "id": 9,
+        "map": "https://my.treedis.com/experience/1500/museu-do-flamengo",
+        "img": "assets/images/places/museu.png"      
+    },
+    {
+        "id": 10,
+        "map": "https://my.matterport.com/show/?m=RPsHHpRykyp&play=1&qs=1&help=0&hl=0&dh=0&gt=0&hr=0&mls=0&fp=0&lang=pt&nozoom=1&search=0&wh=0",
+        "img": "assets/images/places/ninho.png"      
+    },
+    {
+        "id": 11,
+        "map": "https://my.matterport.com/show/?m=mKhCwKTxWWG&cloudEdit=1&play=1&qs=1&help=0&hl=0&dh=0&gt=0&hr=0&mls=0&fp=0&lang=pt&nozoom=1&search=0&wh=0",
+        "img": "assets/images/places/parquinho.png"      
+    },
+    {
+        "id": 12,
+        "map": "https://my.matterport.com/show/?m=KYM3isQ9E4r&cloudEdit=1&play=1&qs=1&help=0&hl=0&dh=0&gt=0&hr=0&mls=0&fp=0&lang=pt&nozoom=1&search=0&wh=0",
+        "img": "assets/images/places/patrimonio.png"      
+    },
+    {
+        "id": 13,
+        "map": "https://my.matterport.com/show/?m=j3S1JJd16LH&cloudEdit=1&play=1&qs=1&help=0&hl=0&dh=0&gt=0&hr=0&mls=0&fp=0&lang=pt&nozoom=1&search=0&wh=0",
+        "img": "assets/images/places/piscina.png"      
+    },
+    {
+        "id": 14,
+        "map": "https://my.matterport.com/show/?m=FgwALS4SrJA&cloudEdit=1&play=1&qs=1&help=0&hl=0&dh=0&gt=0&hr=0&mls=0&fp=0&lang=pt&nozoom=1&search=0&wh=0",
+        "img": "assets/images/places/remo.png"      
+    },
+    {
+        "id": 15,
+        "map": "https://my.matterport.com/show/?m=o32hdGnAEbT&cloudEdit=1&play=1&qs=1&help=0&hl=0&dh=0&gt=0&hr=0&mls=0&fp=0&lang=pt&nozoom=1&search=0&wh=0",
+        "img": "assets/images/places/tenis.png"      
+    }
+]
+
